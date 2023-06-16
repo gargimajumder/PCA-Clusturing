@@ -1,0 +1,30 @@
+Principal Component Analysis: Serious_Assa, Robbery, Bulglary, Theft, trafficking, Kidnapping 
+
+Eigenanalysis of the Correlation Matrix
+
+Eigenvalue  5.1635  1.3000  0.9587  0.7980  0.4175  0.1960  0.0900  0.0592  0.0170
+Proportion   0.574   0.144   0.107   0.089   0.046   0.022   0.010   0.007   0.002
+Cumulative   0.574   0.718   0.825   0.913   0.960   0.982   0.992   0.998   1.000
+
+
+Variable                        PC1     PC2     PC3     PC4     PC5     PC6     PC7     PC8
+Serious_Assault               0.419  -0.087  -0.104   0.154  -0.019  -0.324  -0.551   0.025
+Robbery                       0.373  -0.344  -0.066   0.332  -0.040  -0.272   0.035   0.516
+Bulglary                      0.321   0.415  -0.155  -0.324   0.526  -0.008   0.319   0.431
+Theft                         0.410   0.067  -0.219  -0.130   0.090  -0.394   0.196  -0.696
+trafficking                   0.320   0.098  -0.096  -0.506  -0.758   0.149   0.041   0.155
+Kidnapping                    0.097   0.638   0.470   0.458  -0.272  -0.211   0.182   0.008
+Sexual_Violence               0.393   0.213   0.173   0.057   0.202   0.603  -0.486  -0.133
+Drug Seizures(Cannabis-type)  0.131  -0.324   0.806  -0.411   0.147  -0.189   0.015  -0.010
+Homicide                      0.361  -0.361   0.052   0.326  -0.035   0.447   0.533  -0.146
+
+Variable                         PC9
+Serious_Assault               -0.611
+Robbery                        0.534
+Bulglary                      -0.177
+Theft                          0.277
+trafficking                    0.009
+Kidnapping                    -0.031
+Sexual_Violence                0.331
+Drug Seizures(Cannabis-type)  -0.023
+Homicide                      -0.351
